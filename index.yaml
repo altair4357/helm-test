@@ -3,11 +3,11 @@ entries:
   hdfs:
   - apiVersion: v2
     appVersion: 3.2.2
-    created: "2022-07-07T00:49:20.66555198Z"
+    created: "2022-07-07T04:39:13.432410252Z"
     description: The Apache Hadoop software library is a framework that allows for
       the distributed processing of large data sets across clusters of computers using
       simple programming models.
-    digest: 739776641d4d343a5b2082dc8b5b7beac590755b0a1c109d2ff728d27df9dd92
+    digest: 28e117f24aeee79c6931912567ae6c3c045bdc2186c66ee1d3a7c335f0928525
     home: https://hadoop.apache.org/
     icon: http://hadoop.apache.org/images/hadoop-logo.jpg
     maintainers:
@@ -20,4 +20,4 @@ entries:
     urls:
     - hdfs-1.0.1.tgz
     version: 1.0.1
-generated: "2022-07-07T00:49:20.664189472Z"
+generated: "2022-07-07T04:39:13.430963878Z"
